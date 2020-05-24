@@ -1,0 +1,25 @@
+.page-header {
+    font-size: 50px;
+    font-weight: 700px;
+
+    text-align: center;
+}
+
+.heading {
+    font-size: 30px;  
+}
+
+.subheadingg {
+    font-size: 25px;
+    color: red;
+}
+
+.subheading {
+    font-size: 50px;
+    background-color: rgb(82, 229, 255);
+    color: black;
+}
+
+.page-footer {
+    font-size: 30px;
+}
